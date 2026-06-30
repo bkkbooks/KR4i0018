@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0018/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部九
+  hash: sha256:2915ca2c42004a91a126dfeea4ee146e90e0888298fa16b14df859e534a1c6b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0018_WYG_000-1a, image: WYG1478/WYG1478-0985a.png}
+body:
+  text: 石林詩話詩文評類提要臣等謹案石林詩話一卷宋葉夢得撰夢得有春秋傳諸書已别著録是書乃其平日論詩之語其中推重王安石者不一而足而於歐陽修詩一則摘其評河豚詩之誤一則摘其語有不倫亦不復改一則托其疑夜半鐘聲之誤於蘇軾一則譏其繁悶割愁之句為險諢一則譏其捐三尺字及亂蛙兩部句為歇後一則譏其失李豸一則譏其不能聽文同一則譏其石建牏厠之誤皆有所抑揚於其間蓋夢得出蔡京之門而其壻章冲則章惇之孫故于公論大明之後尚隂抑元祐諸人然夢得詩文實南北宋間之巨擘其所評論往往深中窽㑹終非他家聽聲之見隨人為是非者也乾隆四十二年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:246d7525d9a4361cf596e832a34e5fbfc37432ed201051b095bb9daea2420880
+metadata:
+  title: 石林詩話
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:44:43.311105'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4i0018/KR4i0018_000.txt
+hash: sha256:254dcc8f49e22d51d1e7a34eb30a9244f0fdd07f72f56d0f7abaf85b6d147428
