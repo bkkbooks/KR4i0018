@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR4i0018_000.yaml, hash: 'sha256:0276e22639c944b93867fd7d87243e12472128310f2be7561ec837922f1829c2'}
   - {seq: 1, filename: KR4i0018_001.yaml, hash: 'sha256:c189aa4d24c893ba9b23e7e6bffe3d910b11f7a9a9f46097570cff931abdb040'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0018_000.markers.yaml, hash: 'sha256:438485635aa59db59c90b37db59e2eae9d0d6dfd954f84750c7d8c2782c4224f'}
+  - {seq: 0, role: markers, filename: assets/KR4i0018_000.markers.yaml, hash: 'sha256:eb09add4d16544c321c2ffda1de8c0e6751eb02f772fc24a49acb00c28cbd5f3'}
   - {seq: 1, role: markers, filename: assets/KR4i0018_001.markers.yaml, hash: 'sha256:564030b54e1bfcc46c7f28f42ccdb7157bcf4d6f947f4b0b57554b14bb2374b4'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 石林詩話
   type: section
   level: 1
-hash: sha256:f5ff35b79351af168aa220e10724bce2fc1f5538a7378e43aab3db622c983036
+hash: sha256:ea2bacfc06e48c62853483c45133ce84444557c1ce3b307f61fbb7b18636ae66
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
